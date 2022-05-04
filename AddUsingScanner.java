@@ -10,7 +10,7 @@ class AddUsingScanner{
 		System.out.println("Enter your second double number");
 		double b=sc.nextDouble();
 		
-			System.out.println("Sum :"+ (a+b));
+			System.out.println("Sum is :"+ (a+b));
 			
 		System.out.println("Enter your name");	
 		String name=sc.next();
