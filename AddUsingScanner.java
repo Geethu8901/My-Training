@@ -12,7 +12,7 @@ class AddUsingScanner{
 		
 			System.out.println("Sum :"+ (a+b));
 			
-		System.out.println("Enter your name");	
+		System.out.println("My name ");	
 		String name=sc.next();
 
 
